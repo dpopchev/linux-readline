@@ -1,8 +1,8 @@
 # linux-readline
 
-Configuration to distribute for `GNU readline`.
+Configuration for `GNU readline`.
 
-## Quickstart
+## Install
 
 ```
 git clone https://github.com/dpopchev/linux-readline.git
